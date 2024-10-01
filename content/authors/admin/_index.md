@@ -166,8 +166,4 @@ awards:
 
 ## About Me
 
-I’m a 5th year PhD candidate in the Chemical Engineering Department at Stanford University, working with Professor Gerry Fuller.
-
-My research interests include designing simple instruments to tackle complex problems in rheology and soft matter, and leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments. I am currently working on projects to control the rheology of bioinks in 3D bioprinting, seeking to optimize biomanufactured tissues and organs made up of precisely patterned cells. My research is supported by the NSF Graduate Research Fellowship.
-
-During my undergrad, I worked with Professor Sujit Datta at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. Read about my junior year research here, and my senior thesis--which I finished at home during the pandemic--here!
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
