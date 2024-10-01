@@ -48,12 +48,6 @@ interests:
   - Polymers
   
 education:
-  - area: ''
-    institution: ''
-    date_start: ''
-    date_end: ''
-    summary: |
-      ''
   - area: MS Chemical Engineering
     institution: Stanford University
     date_start: 2020-09-01
