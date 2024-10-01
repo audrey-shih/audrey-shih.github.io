@@ -48,12 +48,12 @@ interests:
   - Polymers
   
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: ''
+    institution: ''
+    date_start: ''
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      ''
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -142,7 +142,7 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
+  - name: Spanish
     percent: 25
 
 # Awards.
@@ -177,7 +177,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Hey, I'm Audrey 👋
 
 I’m a 5th year PhD candidate in the Chemical Engineering Department at Stanford University, working with [Professor Gerry Fuller](https://fullergroup.stanford.edu/).
 
