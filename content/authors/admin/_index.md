@@ -50,25 +50,19 @@ interests:
 education:
   - area: MS Chemical Engineering
     institution: Stanford University
-    date_start: 2020-09-01
-    date_end: 2023-09-01
+    date_start: 2020-09
+    date_end: 2023-09
     summary: |
-      ''
+      
+  - area: BSE Chemical & Biological Engineering
+    institution: Princeton University
+    date_start: 2016-09
+    date_end: 2020-05
+    summary: |
+      Certificate (minor) in Materials Science & Engineering
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: BSE Chemical and Biological Engineering
-    institution: Princeton University
-    date_start: 2016-09-01
-    date_end: 2020-05-31
-    summary: |
-      ''
-  - area: Certificate (minor) Materials Science and Engineering
-    institution: Princeton University
-    date_start: 2016-09-01
-    date_end: 2020-05-31
-    summary: |
-      ''
+      url: 'https://dataspace.princeton.edu/handle/88435/dsp01qr46r386q'
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
