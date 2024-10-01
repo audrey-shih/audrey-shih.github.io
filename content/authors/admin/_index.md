@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Audrey Shih
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Audrey
-last_name: Shih
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
-  icon: 
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,53 +20,69 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chemical Engineer
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: hero/envelope
-    url: 'mailto:ashih@stanford.edu'
+  - icon: at-symbol
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/audrey-shih
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.ca/citations?user=c_LZ59kAAAAJ&hl=en
+    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-8489-2178
-  - icon: brands/youtube
-    url: https://orcid.org/0000-0002-8489-2178
+    url: https://orcid.org/
 
 interests:
-  - Soft Materials
-  - Rheology and Fluid Mechanics
-  - Polymers
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: TEST Chemical Engineering
+  - area: PhD Artificial Intelligence
     institution: Stanford University
-    date_start: ''
-    date_end: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MS Chemical Engineering
-    institution: Stanford University
-    date_start: 2020-09
-    date_end: 2023-09
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
 
-  - area: BSE Chemical and Biological Engineering, minor in Materials Science and Engineering
-    institution: Princeton University
-    date_start: 2016-09
-    date_end: 2020-05
-
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -91,8 +107,8 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
- Skills
- Add your own SVG icons to `assets/media/icons/`
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -128,24 +144,24 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Mandarin Chinese
+  - name: Chinese
     percent: 75
-  - name: Spanish
-    percent: 30
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: ''
+  - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: ''
+  - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
@@ -165,12 +181,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## Hey, I'm Audrey 👋
+## About Me
 
-I’m a 5th year PhD candidate in the Chemical Engineering Department at Stanford University, working with [Professor Gerry Fuller](https://fullergroup.stanford.edu/).
-
-My research interests include designing simple instruments to tackle complex problems in rheology and soft matter, and leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments. I am currently working on projects to control the rheology of bioinks in 3D bioprinting, seeking to optimize biomanufactured tissues and organs made up of precisely patterned cells. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
-
-During my undergrad, I worked with [Professor Sujit Datta](https://dattalab.princeton.edu/) at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. Read about my junior year research [here](https://acee.princeton.edu/acee-news/people-spotlight-audrey-shih/), and my senior thesis--which I finished at home during the pandemic--[here](https://www.princeton.edu/news/2020/06/08/senior-thesis-project-probes-intricacies-groundwater-cleanup)!
-
-Outside of research, I play clarinets of all sizes in the Stanford Symphony Orchestra, the Stanford New Ensemble, and various chamber groups. In addition to [music performance](https://www.youtube.com/watch?v=9iaTGFWpA48&list=PLrV76eiXOtDYd2zu_BR23Gu18ruqG6din), I also love dabbling in [music arranging](https://www.youtube.com/watch?v=C3rwGvBZlAI&list=PLrV76eiXOtDZWZGaaicYCJWrseJZ8eq9P&index=2), conducting, and [film scoring](https://www.youtube.com/watch?v=PzqSTuFyhb4).
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
