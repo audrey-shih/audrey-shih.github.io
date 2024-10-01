@@ -50,14 +50,14 @@ interests:
 education:
   - area: MS Chemical Engineering
     institution: Stanford University
-    date_start: 2020-09
-    date_end: 2023-09
+    date_start: 2020-09-01
+    date_end: 2023-09-01
     summary: |
       
   - area: BSE Chemical & Biological Engineering
     institution: Princeton University
-    date_start: 2016-09
-    date_end: 2020-05
+    date_start: 2016-09-01
+    date_end: 2020-05-31
     summary: |
       Certificate (minor) in Materials Science & Engineering
     button:
