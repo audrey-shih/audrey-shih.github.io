@@ -36,11 +36,17 @@ header:
     show_theme_chooser: true
     logo:
       text: "Audrey Shih"
+ # Shop a call-to-action button in the top right?
+    button:
+      enable: true
+      text: "Contact Audrey!"
+      url: "mailto:ashih@stanford.edu"
+highlight_active_link: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2024} Audrey Shih.'
     license:
       enable: true
       allow_derivatives: false
