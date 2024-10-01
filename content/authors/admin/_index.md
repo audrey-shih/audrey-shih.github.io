@@ -54,15 +54,15 @@ education:
     date_end: ''
     summary: |
       ''
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: MS Chemical Engineering
     institution: Stanford University
     date_start: 2020-09-01
     date_end: 2023-09-01
     summary: |
       ''
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: BSE Chemical and Biological Engineering
     institution: Princeton University
     date_start: 2016-09-01
