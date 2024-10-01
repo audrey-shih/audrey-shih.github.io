@@ -7,3 +7,6 @@ cascade:
     render: never
     list: always
 ---
+    button:
+      text: 'Read Thesis'
+      url: 'https://dataspace.princeton.edu/handle/88435/dsp01qr46r386q'
