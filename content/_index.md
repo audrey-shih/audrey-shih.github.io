@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: shriram2.jpg
           filters:
-            brightness: 0.1
+            brightness: 0.3
           size: cover
           position: center
           parallax: false

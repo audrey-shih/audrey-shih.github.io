@@ -7,6 +7,6 @@ tags:
   - piano
 ---
 
-I had the honor of serving as VP of the Princeton Pianists Ensemble throughout undergrad, and arranged over a dozen pieces for 4 to 10 hands!
+I've arranged over a dozen pieces for the Princeton Pianists Ensemble from 4 hands to 10, from classical to jazz!
 
 <!--more-->

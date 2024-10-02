@@ -6,6 +6,6 @@ tags:
   - orchestra
 ---
 
-I took orchestral conducting classes at Princeton and Stanford.
+I studied orchestral conducting at both Princeton and Stanford.
 
 <!--more-->

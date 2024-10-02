@@ -6,6 +6,6 @@ tags:
   - piano
 ---
 
-Piano is typically a solo instrument, but I prefer to play it collaboratively, with as many friends as I can find.
+Piano is typically a solo instrument, but I prefer to play it with as many friends as I can find.
 
 <!--more-->
