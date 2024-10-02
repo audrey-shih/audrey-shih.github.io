@@ -165,9 +165,7 @@ awards:
 
 I’m a 5th year PhD candidate in the Chemical Engineering Department at Stanford University, working with [Professor Gerry Fuller](https://fullergroup.stanford.edu/).
 
-My research interests include designing simple instruments to tackle complex problems in soft matter as well as leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments. I am currently working on projects to control the rheology of bioinks in 3D bioprinting, seeking to optimize biomanufactured tissues and organs made up of precisely patterned cells. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
-
-During my undergrad, I worked with [Professor Sujit Datta](https://dattalab.princeton.edu/) at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. Read about my junior year research [here](https://acee.princeton.edu/acee-news/people-spotlight-audrey-shih/), and my senior thesis [here](https://www.princeton.edu/news/2020/06/08/senior-thesis-project-probes-intricacies-groundwater-cleanup)!
+My research interests include designing simple instruments to tackle complex problems in soft matter as well as leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments.
 
 Outside of research, I play clarinets of all sizes in the Stanford Symphony Orchestra, the Stanford New Ensemble, and various chamber groups. In addition to [music performance](https://www.youtube.com/watch?v=9iaTGFWpA48&list=PLrV76eiXOtDYd2zu_BR23Gu18ruqG6din), I also love dabbling in [music arranging](https://www.youtube.com/watch?v=C3rwGvBZlAI&list=PLrV76eiXOtDZWZGaaicYCJWrseJZ8eq9P&index=2), conducting, and [film scoring](https://www.youtube.com/watch?v=PzqSTuFyhb4).
 
