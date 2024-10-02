@@ -46,7 +46,7 @@ highlight_active_link: true
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} Audrey Shih.'
+    notice: '© 2024 Audrey Shih.'
     license:
       enable: true
       allow_derivatives: false
