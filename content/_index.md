@@ -55,7 +55,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: 📖 Publications
       text: ""
       filters:
         folders:
@@ -66,14 +66,37 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 🗪 Recent & Upcoming Talks
       filters:
-        featured_only: false
+        #featured_only: false
         folders:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 2
+  - block: collection
+    id: teaching
+    content:
+      title: 👩🏻‍🏫 Teaching
+      filters:
+        folders:
+          - teaching
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    id: music
+    content:
+      title: 🎵 Music Projects
+      text: |-
+        Outside of the lab, I play clarinet and piano and dabble in conducting, composing, and arranging. I love trying new instruments, techniques, and styles of music!
+      filters:
+        featured_only: false
+        folders:
+          - music
+    design:
+      view: article-grid
+      columns: 3
 #  - block: collection
 #    id: news
 #    content:

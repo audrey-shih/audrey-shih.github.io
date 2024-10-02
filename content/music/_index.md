@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: music
     content:
-      title: Music Projects
+      title: 🎵 Music Projects
       filters:
         folders:
           - music

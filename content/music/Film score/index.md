@@ -6,6 +6,6 @@ tags:
   - composition
 ---
 
-My first film score. All music and SFX are original. VSTs: BBC Symphony Orchestra, Spitfire Labs.
+All music and SFX are original. VSTs: BBC Symphony Orchestra, Spitfire Labs.
 
 <!--more-->

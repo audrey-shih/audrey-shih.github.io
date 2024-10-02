@@ -23,8 +23,8 @@ main:
 #    url: projects/
 #    weight: 30
   - name: Teaching
-    url: teaching/
+    url: /#teaching
     weight: 40
   - name: Music
-    url: music/
+    url: /#music
     weight: 50

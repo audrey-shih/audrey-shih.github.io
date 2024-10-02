@@ -6,6 +6,6 @@ tags:
   - orchestra
 ---
 
-I play clarinets of all sizes, but my favorite is the Eb piccolo clarinet.
+I play clarinet and piccolo clarinet in the Stanford Symphony Orchestra, the Stanford New Ensemble, and chamber groups.
 
 <!--more-->
