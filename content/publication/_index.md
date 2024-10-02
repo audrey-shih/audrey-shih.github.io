@@ -1,5 +1,6 @@
 ---
 title: Publications
+Type: landing
 cms_exclude: true
 
 # View.

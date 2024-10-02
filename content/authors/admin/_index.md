@@ -167,6 +167,4 @@ I’m a 5th year PhD candidate in the Chemical Engineering Department at Stanfor
 
 My research interests include designing simple instruments to tackle complex problems in soft matter as well as leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments.
 
-Outside of research, I play clarinets of all sizes in the Stanford Symphony Orchestra, the Stanford New Ensemble, and various chamber groups. In addition to [music performance](https://www.youtube.com/watch?v=9iaTGFWpA48&list=PLrV76eiXOtDYd2zu_BR23Gu18ruqG6din), I also love dabbling in [music arranging](https://www.youtube.com/watch?v=C3rwGvBZlAI&list=PLrV76eiXOtDZWZGaaicYCJWrseJZ8eq9P&index=2), conducting, and [film scoring](https://www.youtube.com/watch?v=PzqSTuFyhb4).
-
 I'm looking for a research position in industry starting the summer of 2025. Please reach out if I might be a good fit!
