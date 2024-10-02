@@ -108,23 +108,23 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Music
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: hero/musical-note
+      - name: Arts & Crafts
+        description: ''
+        percent: 90
+        icon: hero/paint-brush
+      - name: Traveling
         description: ''
         percent: 80
-        icon: camera
+        icon: hero\globe-asia-australia
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Mandarin Chinese
     percent: 75
   - name: Spanish
     percent: 25
@@ -134,10 +134,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Chemical Engineering Service Leadership Award
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+    date: '2023-10-01'
+    awarder: Department of Chemical Engineering, Stanford University
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.

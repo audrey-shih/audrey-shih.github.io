@@ -68,6 +68,7 @@ sections:
     content:
       title: Recent & Upcoming Talks
       filters:
+        featured_only: false
         folders:
           - event
     design:
