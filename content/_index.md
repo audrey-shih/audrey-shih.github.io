@@ -33,7 +33,7 @@ sections:
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: ''
+      subtitle: 'Exploring Innovations in 3D Bioprinting'
       text: |-
         I am currently working on projects to control the rheology of bioinks in 3D bioprinting, seeking to optimize biomanufactured tissues and organs made up of precisely patterned cells. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
