@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: AIChE 2023
 
-event: Hugo Blox Builder Conference
+event: AIChE Annual Meeting 2023
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
@@ -30,7 +30,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

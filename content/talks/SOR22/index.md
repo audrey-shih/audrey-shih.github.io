@@ -1,7 +1,7 @@
 ---
-title: AIChE 2023
+title: SOR 2022
 
-event: AIChE 2023
+event: Society of Rheology 2022
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
@@ -30,7 +30,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: research
     content:
       title: '📚 My Research'
       subtitle: 'Exploring Innovations in 3D Bioprinting'
@@ -70,10 +71,10 @@ sections:
       filters:
         #featured_only: false
         folders:
-          - event
+          - talks
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     id: teaching
     content:

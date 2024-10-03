@@ -1,7 +1,7 @@
 ---
-title: AIChE 2023
+title: NETZSCH Workshop
 
-event: AIChE 2023
+event: NETZSCH Workshop 2024
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ

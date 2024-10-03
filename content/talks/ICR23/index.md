@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: ICR 2023
 
-event: Hugo Blox Builder Conference
+event: International Congress of Rheology 2023
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
