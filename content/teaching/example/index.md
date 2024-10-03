@@ -1,11 +1,12 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
+title: Private Tutoring
+draft: true
+summary: High school chemistry, SAT math
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - tutor
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

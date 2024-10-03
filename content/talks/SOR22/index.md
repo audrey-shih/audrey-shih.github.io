@@ -4,7 +4,7 @@ title: SOR 2022
 event: Society of Rheology 2022
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Chicago, Illinois
 address:
   street: 450 Serra Mall
   city: Stanford
