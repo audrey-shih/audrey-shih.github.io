@@ -4,7 +4,7 @@ title: NETZSCH Workshop
 event: NETZSCH Workshop 2024
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Palo Alto, California
 address:
   street: 450 Serra Mall
   city: Stanford

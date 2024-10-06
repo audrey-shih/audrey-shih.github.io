@@ -4,7 +4,7 @@ title: ICR 2023
 event: International Congress of Rheology 2023
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Athens, Greece
 address:
   street: 450 Serra Mall
   city: Stanford

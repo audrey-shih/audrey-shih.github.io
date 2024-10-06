@@ -4,7 +4,7 @@ title: AIChE 2023
 event: AIChE Annual Meeting 2023
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Orlando, Florida
 address:
   street: 450 Serra Mall
   city: Stanford
