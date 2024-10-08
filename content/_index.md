@@ -36,6 +36,7 @@ sections:
       title: '📚 Research'
       subtitle: 'Exploring Innovations in 3D Bioprinting'
       text: |-
+        <br>
         I am currently working on projects to control the rheology of bioinks in 3D bioprinting, seeking to optimize biomanufactured tissues and organs made up of precisely patterned cells. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
       
         During my undergrad, I worked with [Professor Sujit Datta](https://dattalab.princeton.edu/) at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. Read about my junior year research [here](https://acee.princeton.edu/acee-news/people-spotlight-audrey-shih/), and my senior thesis [here](https://www.princeton.edu/news/2020/06/08/senior-thesis-project-probes-intricacies-groundwater-cleanup)!
