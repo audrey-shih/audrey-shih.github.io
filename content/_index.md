@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download Resume
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -40,7 +40,7 @@ sections:
         I am currently working on projects to control the rheology of bioinks in 3D bioprinting, seeking to optimize biomanufactured tissues and organs made up of precisely patterned cells. My research is supported by the <a href="https://www.nsfgrfp.com/">NSF Graduate Research Fellowship</a>!
         <br>
         <br>
-        During my undergrad, I worked with <a href="https://dattalab.princeton.edu/">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. Read about my junior year research <a href="https://acee.princeton.edu/acee-news/people-spotlight-audrey-shih/">here</a>, and my senior thesis <a href="https://www.princeton.edu/news/2020/06/08/senior-thesis-project-probes-intricacies-groundwater-cleanup">here</a>!
+        During my undergrad, I worked with <a href="https://dattalab.princeton.edu/">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. Read these spotlight articles about my junior year research <a href="https://acee.princeton.edu/acee-news/people-spotlight-audrey-shih/">here</a>, and my senior thesis <a href="https://www.princeton.edu/news/2020/06/08/senior-thesis-project-probes-intricacies-groundwater-cleanup">here</a>!
     design:
       columns: '1'
 #  - block: collection

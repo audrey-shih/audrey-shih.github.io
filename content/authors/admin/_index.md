@@ -39,8 +39,8 @@ profiles:
     url: https://scholar.google.ca/citations?user=c_LZ59kAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-8489-2178
-  - icon: brands/youtube
-    url: https://www.youtube.com/@audiblyaudrey
+#  - icon: brands/youtube
+#    url: https://www.youtube.com/@audiblyaudrey
 
 interests:
   - Soft Materials
@@ -64,46 +64,66 @@ education:
       text: 'Read Thesis'
       url: 'https://dataspace.princeton.edu/handle/88435/dsp01qr46r386q'
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Ph.D. Candidate
+    company_name: Stanford University, Prof. Gerald G. Fuller
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Novel magnetic stress rheometer for bulk rheology of biological fluids
+  - position: Ph.D. Candidate
+    company_name: Stanford University, Prof. Joseph M. DeSimone
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-01
+    date_end: 2020-09-01
+    summary: |2-
+      - Single-digit-micron-resolution Continuous Liquid Interface Production (CLIP)
+  - position: Undergraduate Researcher
+    company_name: Princeton University, Prof. Sujit S. Datta
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2020-05-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Polymer flow through porous media
+  - position: Research Intern
+    company_name: TU Dortmund, Germany, Prof. Armin Quentmeier
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-06-01
+    date_end: 2018-08-15
+    summary: |
+      - Commandeered the Biochemical and Chemical Engineering department's contribution to the 2018 Engineering Meets Art Exhibition
+  - position: Research Assistant
+    company_name: Princeton University, Prof. Celeste M. Nelson
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-06-01
+    date_end: 2018-08-15
+    summary: |
+      - Investigated role of tissue mechanics in epithelial-mesenchymal transition (EMT)
+      - Examined effects of varied substratum stiffness as well as depletion of integrin-linked kinase (ILK) on cell proliferation
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: MATLAB
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: chart-bar
+      - name: Python
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: CAD
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: cube
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -112,14 +132,14 @@ skills:
         description: ''
         percent: 100
         icon: hero/musical-note
-      - name: Arts & Crafts
+      - name: Making & Design
         description: ''
         percent: 90
         icon: hero/paint-brush
-      - name: Traveling
+      - name: Puzzles
         description: ''
         percent: 80
-        icon: hero\globe-asia-australia
+        icon: hero\puzzle-piece
 
 languages:
   - name: English
@@ -167,4 +187,4 @@ I’m a 5th year PhD candidate in the Chemical Engineering Department at Stanfor
 
 My research interests include designing simple instruments to tackle complex problems in soft matter as well as leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments.
 
-I'm looking for a research position in industry starting the summer of 2025. Please reach out if I might be a good fit!
+**I'm looking for a research position in industry** starting the summer of 2025. Please reach out if I might be a good fit!
