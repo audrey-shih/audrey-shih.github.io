@@ -88,15 +88,16 @@ sections:
 #      view: article-grid
 #      columns: 2
   - block: collection
-    id: music
+    id: creative
     content:
-      title: 🎵 Music Projects
+      title: 🎵 Creative Projects
       text: |-
-        Outside of the lab, I play clarinet and piano and dabble in conducting, composing, and arranging. I love trying new instruments, techniques, and styles of music!
+        Outside of the lab, I play clarinet and piano and dabble in conducting, composing, and arranging. I love experimenting new instruments, techniques, and styles of music!
+        
+        I also like making stuff at the intersection of art and engineering. See some of my music and art projects below.
       filters:
-        featured_only: false
         folders:
-          - music
+          - creative
     design:
       view: article-grid
       columns: 3
