@@ -63,6 +63,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://dataspace.princeton.edu/handle/88435/dsp01qr46r386q'
+
 work:
   - position: Ph.D. Candidate
     company_name: Stanford University, Prof. Gerald G. Fuller
@@ -71,7 +72,25 @@ work:
     date_start: 2021-09-01
     date_end: ''
     summary: |2-
-      - Novel magnetic stress rheometer for bulk rheology of biological fluids
+      - Designed and constructed a magnetic stress rheometer (MSR) for bulk rheology of biological fluids
+      - Teaching Assistant (TA) for <a href="https://explorecourses.stanford.edu/search;jsessionid=1danptg9hsd831gdxhjx5b2jsr?q=CHEMENG+470%3a+Mechanics+of+Soft+Matter%3a+Rheology&view=catalog&filter-coursestatus-Active=on&academicYear=20222023" target="_blank">CHEMENG 470: *Mechanics of Soft Matter: Rheology*</a> in Winter 2022 and Winter 2023
+  - position: Community Associate
+    company_name: Stanford University, Graduate Life Office
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-09-01
+    date_end: ''
+    summary: |2-
+      - Planned and coordinated 12 events per year to foster community in graduate residences
+      - Advised fellow residents about support services available on campus as well as residential policies
+  - position: Social Events Chair
+    company_name: Chemical Engineering Graduate Student Action Committee (GSAC)
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: 2023-09-01
+    summary: |2-
+      - Planned and coordinated monthly events to build community within the Chemical Engineering department
   - position: Ph.D. Candidate
     company_name: Stanford University, Prof. Joseph M. DeSimone
     company_url: ''
@@ -79,7 +98,8 @@ work:
     date_start: 2021-09-01
     date_end: 2020-09-01
     summary: |2-
-      - Single-digit-micron-resolution Continuous Liquid Interface Production (CLIP)
+      - Characterized single-digit-micron-resolution Continuous Liquid Interface Production (CLIP)
+      - Best Poster and Audience Choice Awards at MIPS Retreat 2021
   - position: Undergraduate Researcher
     company_name: Princeton University, Prof. Sujit S. Datta
     company_url: ''
@@ -87,7 +107,9 @@ work:
     date_start: 2018-09-01
     date_end: 2020-05-31
     summary: |
-      - Polymer flow through porous media
+      - Investigated polymer flow in porous media
+      - Presented work at Stanford Research Conference 2019, Princeton Research Day 2019, Andlinger Center for Energy and the Environment (ACEE) 2019 Annual Meeting, and Northeast Complex Fluids and Soft Matter Workshop 2020
+      - PSEG Best Poster Award at ACEE Annual Meeting 2019
   - position: Research Intern
     company_name: TU Dortmund, Germany, Prof. Armin Quentmeier
     company_url: ''
@@ -105,7 +127,6 @@ work:
     summary: |
       - Investigated role of tissue mechanics in epithelial-mesenchymal transition (EMT)
       - Examined effects of varied substratum stiffness as well as depletion of integrin-linked kinase (ILK) on cell proliferation
-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -139,7 +160,7 @@ skills:
       - name: Puzzles
         description: ''
         percent: 80
-        icon: hero\puzzle-piece
+        icon: puzzle-piece
 
 languages:
   - name: English
@@ -155,30 +176,32 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Chemical Engineering Service Leadership Award
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://cheme.stanford.edu/news/congratulations-maggy-harake-michelle-huang-audrey-shih-kyra-yap-2023-chemical-engineering
     date: '2023-10-01'
     awarder: Department of Chemical Engineering, Stanford University
-    icon: coursera
+    icon: ''
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      To honor and recognize significant contributions to the department -- going above and beyond the scope of normal research and studies to help ensure our community thrives.
+  - title: Lore von Jaskowsky Memorial Prize
+    url: https://engineering.princeton.edu/news/2020/06/02/graduates-recognized-innovation-service-and-perseverance
+    date: '2020-06-01'
+    awarder: Princeton School of Engineering and Applied Science
+    icon: ''
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded to a senior who has participated with noticeable élan in research that has resulted in a contribution to the field, whose interactions with other students, faculty, and staff has added to the quality of university life.
+  - title: 'Outstanding Senior Thesis Award'
+    url: https://materials.princeton.edu/congratulations-mse-class-2020
+#    certificate_url: https://www.datacamp.com
+    date: '2020-06-01'
+    awarder: Princeton Institute for the Science and Technology of Materials
+#    icon: datacamp
+    summary: ''
+  - title: 'NSF Graduate Research Fellowship'
+    url: https://www.nsfgrfp.org/
+    date: '2020-01-01'
+    awarder: National Science Foundation
+#    icon: datacamp
+    summary: ''
 ---
 
 ## Hey, I'm Audrey 👋
