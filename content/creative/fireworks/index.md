@@ -11,27 +11,18 @@ Firstly, I wanted to create an optical illusion in the style of the op art movem
 
 Secondly, I hoped to utilize vibrant, full 256-value colors characteristic of the psychedelia movement to demonstrate the how each color model represents a full spectrum of colors. I explore the gradient effect created by each color model, when only its primary hues are present.
 
----
+<img src="gif1.gif" alt="" />
+<img src="gif2.gif" alt="" />
+<img src="gif3.gif" alt="" />
+<img src="gif4.gif" alt="" />
+<img src="gif5.gif" alt="" />
+<img src="gif6.png" alt="" />
 
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
----
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Then I changed the background to black, and things came together! Here were the results with RGB only:
+<img src="gif7.gif" alt="" />
+CMY only:
+<img src="gif8.gif" alt="" />
+Combined:
+<img src="gif9.gif" alt="" />
+All three together: 
+<img src="featured.gif" alt="" />

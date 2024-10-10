@@ -1,7 +1,7 @@
 ---
 title: NETZSCH Workshop
 
-draft: false
+draft: true
 
 event: NETZSCH Workshop 2024
 event_url: https://example.org

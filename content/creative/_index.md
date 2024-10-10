@@ -1,7 +1,7 @@
 ---
 title: Music
 summary: ''
-type: landing
+#type: landing
 
 cascade:
   - _target:
