@@ -30,18 +30,22 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: collection
     id: research
     content:
       title: '📚 Research'
       subtitle: 'Exploring Innovations in 3D Bioprinting'
       text: |-
-        I'm currently working to control the rheology of bioinks in 3D bioprinting, to optimize biomanufactured tissues and organs made up of precisely patterned cells. I've designed a magnetic stress rheometer (MSR) to measure the rheology of biomaterials like bioinks and abscess fluids. My research is supported by the <a href="https://www.nsfgrfp.com/">NSF Graduate Research Fellowship</a>!
+        I'm currently working to control the rheology of bioinks in 3D bioprinting, to optimize biomanufactured tissues and organs made up of precisely patterned cells. I've designed a magnetic stress rheometer (MSR) to measure the rheology of biomaterials like bioinks and abscess fluids. My research is supported by the <a href="https://www.nsfgrfp.com/" style="text-decoration: underline;">NSF Graduate Research Fellowship</a>!
         <br>
 
-        During my undergrad, I worked with <a href="https://dattalab.princeton.edu/">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. I was featured in news articles about <a href="https://acee.princeton.edu/acee-news/people-spotlight-audrey-shih/">my junior year research</a>, and <a href="https://www.princeton.edu/news/2020/06/08/senior-thesis-project-probes-intricacies-groundwater-cleanup">my senior thesis</a>!
+        During my undergrad, I worked with <a href="https://dattalab.princeton.edu/" style="text-decoration: underline;">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. I was featured in the news articles below!
+      filters:
+        folders:
+          - research
     design:
-      columns: '1'
+      view: article-grid
+      columns: 2
 #  - block: collection
 #    draft: true
 #    id: papers
@@ -70,8 +74,6 @@ sections:
     content:
       title: 💬 Recent & Upcoming Talks
       count: 0
-      # Page type to display. E.g. post, talk, publication...
-#      page_type: talk
       filters:
         #featured_only: false
         folders:
