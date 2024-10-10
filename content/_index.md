@@ -34,7 +34,7 @@ sections:
     id: research
     content:
       title: '📚 Research'
-      subtitle: 'Exploring Innovations in 3D Bioprinting'
+      subtitle: ''
       text: |-
         I'm currently working to control the rheology of bioinks in 3D bioprinting, to optimize biomanufactured tissues and organs made up of precisely patterned cells. I've designed a magnetic stress rheometer (MSR) to measure the rheology of biomaterials like bioinks and abscess fluids. My research is supported by the <a href="https://www.nsfgrfp.com/" style="text-decoration: underline;font-weight: bold;">NSF Graduate Research Fellowship</a>!
         <br>

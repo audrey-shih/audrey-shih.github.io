@@ -19,10 +19,10 @@ Secondly, I hoped to utilize vibrant, full 256-value colors characteristic of th
 <img src="gif5.gif" alt="" />
 <img src="gif6.png" alt="" />
 Here were the results with RGB only:
-<img src="gif7.gif" alt="" />
-CMY only:
 <img src="gif8.gif" alt="" />
-Combined:
+CMY only:
 <img src="gif9.gif" alt="" />
+Combined:
+<img src="gif7.gif" alt="" />
 All three together: 
 <img src="featured.gif" alt="" />

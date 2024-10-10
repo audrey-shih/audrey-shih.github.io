@@ -43,9 +43,9 @@ profiles:
 #    url: https://www.youtube.com/@audiblyaudrey
 
 interests:
-  - Soft Materials
+  - Soft Materials and Polymers
   - Rheology and Fluid Mechanics
-  - Polymers
+  - Biomaterials
   
 education:
   - area: MS Chemical Engineering
@@ -208,6 +208,6 @@ awards:
 
 I’m a 5th year PhD candidate in the Chemical Engineering Department at Stanford University, working with [Professor Gerry Fuller](https://fullergroup.stanford.edu/).
 
-My research interests include designing simple instruments to tackle complex problems in soft matter as well as leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments.
+My current work focuses on designing simple instruments to tackle complex problems in soft matter and leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments. My general interests are in soft matter, polymers, and biomaterials.
 
-**I'm looking for a research position in industry** starting the summer of 2025. Please reach out if I might be a good fit!
+**I'm looking for a research position in industry** starting in summer 2025. Please reach out if I might be a good fit!
