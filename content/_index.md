@@ -36,7 +36,7 @@ sections:
       title: '📚 Research'
       subtitle: ''
       text: |-
-        I'm currently working to control the rheology of bioinks in 3D bioprinting, to optimize biomanufactured tissues and organs made up of precisely patterned cells. I've designed a magnetic stress rheometer (MSR) to measure the rheology of biomaterials like bioinks and abscess fluids. My research is supported by the <a href="https://www.nsfgrfp.com/" style="text-decoration: underline;font-weight: bold;">NSF Graduate Research Fellowship</a>!
+        I'm currently working on controlling the rheology of bioinks in 3D bioprinting to optimize biomanufactured tissues and organs made up of precisely patterned cells. I've designed a magnetic stress rheometer (MSR) to measure the rheology of biomaterials like bioinks and abscess fluids. My research is supported by the <a href="https://www.nsfgrfp.com/" style="text-decoration: underline;font-weight: bold;">NSF Graduate Research Fellowship</a>!
         <br>
 
         During my undergrad, I worked with <a href="https://dattalab.princeton.edu/" style="text-decoration: underline;font-weight: bold;">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. I was featured in the news articles below!
