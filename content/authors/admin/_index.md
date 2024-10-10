@@ -122,8 +122,8 @@ work:
     company_name: Princeton University, Prof. Celeste M. Nelson
     company_url: ''
     company_logo: ''
-    date_start: 2018-06-01
-    date_end: 2018-08-15
+    date_start: 2017-06-01
+    date_end: 2018-06-15
     summary: |
       - Investigated role of tissue mechanics in epithelial-mesenchymal transition (EMT)
       - Examined effects of varied substratum stiffness as well as depletion of integrin-linked kinase (ILK) on cell proliferation
