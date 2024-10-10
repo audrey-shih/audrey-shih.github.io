@@ -96,9 +96,9 @@ sections:
     content:
       title: 🎵 Creative Projects
       text: |-
-        Outside of the lab, I play clarinet and piano and dabble in conducting, composing, and arranging. I love experimenting new instruments, techniques, and styles of music!
+        Outside of the lab, I play clarinet and piano and dabble in conducting, composing, and arranging. I love experimenting with new instruments, techniques, and styles of music!
         
-        I also like making stuff at the intersection of art and engineering. See some of my music and art projects below.
+        I also like making science-inspired art. See some of my music and art projects below.
       count: 0
       filters:
         folders:
