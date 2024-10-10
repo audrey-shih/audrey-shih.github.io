@@ -1,6 +1,7 @@
 ---
 title: Paper Fireworks
 date: 2020-05-31
+pager: true
 tags:
   - visual art
 ---
@@ -17,8 +18,7 @@ Secondly, I hoped to utilize vibrant, full 256-value colors characteristic of th
 <img src="gif4.gif" alt="" />
 <img src="gif5.gif" alt="" />
 <img src="gif6.png" alt="" />
-
-Then I changed the background to black, and things came together! Here were the results with RGB only:
+Here were the results with RGB only:
 <img src="gif7.gif" alt="" />
 CMY only:
 <img src="gif8.gif" alt="" />

@@ -1,6 +1,7 @@
 ---
 title: Clarinet Performances
 date: 2024-10-08
+pager: true
 tags:
   - orchestra
 ---

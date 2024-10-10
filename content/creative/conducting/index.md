@@ -2,6 +2,7 @@
 title: Conducting
 date: 2022-12-12
 external_link: ''
+pager: true
 tags:
   - orchestra
 ---

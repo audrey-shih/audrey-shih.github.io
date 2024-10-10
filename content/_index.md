@@ -40,7 +40,6 @@ sections:
         <br>
 
         During my undergrad, I worked with <a href="https://dattalab.princeton.edu/">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. I was featured in news articles about <a href="https://acee.princeton.edu/acee-news/people-spotlight-audrey-shih/">my junior year research</a>, and <a href="https://www.princeton.edu/news/2020/06/08/senior-thesis-project-probes-intricacies-groundwater-cleanup">my senior thesis</a>!
-
     design:
       columns: '1'
 #  - block: collection
@@ -70,6 +69,9 @@ sections:
     id: talks
     content:
       title: 💬 Recent & Upcoming Talks
+      count: 0
+      # Page type to display. E.g. post, talk, publication...
+#      page_type: talk
       filters:
         #featured_only: false
         folders:
@@ -95,6 +97,7 @@ sections:
         Outside of the lab, I play clarinet and piano and dabble in conducting, composing, and arranging. I love experimenting new instruments, techniques, and styles of music!
         
         I also like making stuff at the intersection of art and engineering. See some of my music and art projects below.
+      count: 0
       filters:
         folders:
           - creative
