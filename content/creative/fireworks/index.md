@@ -6,7 +6,7 @@ tags:
   - visual art
 ---
 
-In this project, I explore two distinct artistic styles: op art and psychedelia. I sought to combine elements of both art movements into my project exploring RGB and CMYK color theory.
+In this project, I explored two distinct artistic styles: op art and psychedelia. I sought to combine elements of both art movements into my project exploring RGB and CMYK color theory.
 
 Firstly, I wanted to create an optical illusion in the style of the op art movement, which often utilizes black and white abstractions to give the impression of movement or warping patterns. To achieve apparent motion in the absence of real motion, I chose to incorporate slit animation, which is typically created in black and white.
 
