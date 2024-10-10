@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
-        url: uploads/resume.pdf
+        url: /uploades/resume.pdf
     design:
       css_class: dark
       background:
