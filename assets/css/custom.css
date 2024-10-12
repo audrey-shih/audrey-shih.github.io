@@ -1,0 +1,12 @@
+.max-w-prose {
+    max-width: 85ch
+}
+
+.full-align-indented {
+/*    text-align: justify;*/
+    text-indent: 2em; /* Adjust the value for indentation */
+}
+
+.center-align {
+    text-align: center;
+}
