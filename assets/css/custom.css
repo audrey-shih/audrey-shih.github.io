@@ -10,3 +10,7 @@
 .center-align {
     text-align: center;
 }
+
+.resume-biography .max-w-prose{
+    max-width: 65ch
+}
