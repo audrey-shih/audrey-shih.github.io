@@ -140,6 +140,7 @@ a[href="https://orcid.org/0000-0002-8489-2178"] {
   }
 
 .flex.flex-col.items-center{
+    max-width: 85ch
     animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
     animation-delay: 0ms;
 }
