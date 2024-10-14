@@ -203,6 +203,7 @@ awards:
 #    icon: datacamp
     summary: ''
 ---
+<div class="right-slide">
 
 ## Hey, I'm Audrey 👋
 
@@ -211,3 +212,5 @@ I’m a 5th year PhD candidate in the Chemical Engineering Department at Stanfor
 My current work focuses on designing simple instruments to tackle complex problems in soft matter and leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments. My general interests are in soft matter, polymers, and biomaterials.
 
 **I'm looking for a research position in industry** starting in summer 2025. Please reach out if I might be a good fit!
+
+</div>

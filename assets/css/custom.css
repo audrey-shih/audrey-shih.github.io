@@ -14,3 +14,137 @@
 .resume-biography .max-w-prose{
     max-width: 65ch
 }
+
+/* Slide-in from the left animation */
+@keyframes slideInLeft {
+    0% {
+      opacity: 0;
+      transform: translateX(-100%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+  }
+}
+  
+  /* Apply slide-in effect to elements */
+.slide-in-left {
+    animation: slideInLeft 1s ease-out forwards;
+}
+  
+  /* Example for a delayed slide-in */
+.slide-in-left-delayed {
+    animation: slideInLeft 1s ease-out 0.5s forwards; /* 0.5s delay */
+}
+
+@keyframes slide-from-right {
+    0% {
+      transform: translateX(150%);
+    }
+    100% {
+      transform: translateX(0%);
+    }
+}
+
+  /* Animate text coming from right */ 
+.right-slide {
+    animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
+    animation-delay: 0ms;
+}
+
+/* Animate CV button coming from right */ 
+a[href="/uploads/resume.pdf"] {
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+    animation-delay: 1.4s;;
+}
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}
+
+.section-subheading.mb-3 {
+   animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
+   animation-delay: 300ms;
+}
+
+.list-disc.list-inside.space-y-1.pl-5 {
+    animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
+    animation-delay: 300ms;
+}
+
+.flex.items-start.gap-3 {
+    animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
+    animation-delay: 300ms;
+}
+  
+a[href="mailto:ashih@stanford.edu"] {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+            animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.3s;
+            animation-delay: 1.3s;
+}
+
+a[href="https://www.linkedin.com/in/audrey-shih"] {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+            animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.4s;
+            animation-delay: 1.4s;
+}
+
+a[href="https://scholar.google.ca/citations?user=c_LZ59kAAAAJ&hl=en"] {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+            animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.5s;
+            animation-delay: 1.5s;
+}
+
+a[href="https://orcid.org/0000-0002-8489-2178"] {
+    opacity: 0;
+    -webkit-animation: grow 2s ease forwards;
+            animation: grow 2s ease forwards;
+    -webkit-animation-delay: 1.6s;
+            animation-delay: 1.6s;
+}
+
+@-webkit-keyframes grow {
+    100% { opacity: 1; }
+}
+    
+@keyframes grow {
+    100% { opacity: 1; }
+} 
+
+@keyframes slide-from-left {
+    0% {
+        opacity: 0;
+        transform: translateX(-200%);
+      }
+      100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+  }
+  
+  .flex.justify-center.items-center.flex-col {
+    animation: slide-from-left 1s ease-out 0.5s forwards;
+    animation-delay: 100ms
+  }
+
+.flex.flex-col.items-center{
+    animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
+    animation-delay: 0ms;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+  

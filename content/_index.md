@@ -18,6 +18,8 @@ sections:
       button:
         text: Download Resume
         url: /uploads/resume.pdf
+        attributes: 
+          class: "btn-download"
     design:
       css_class: dark
       background:
