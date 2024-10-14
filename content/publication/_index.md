@@ -3,6 +3,10 @@ title: Publications
 Type: landing
 cms_exclude: true
 
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 # View.
 view: citation
 

@@ -4,6 +4,11 @@ cms_exclude: true
 type: landing
 #url: talk
 
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+       
 cascade:
   - _target:
       kind: page

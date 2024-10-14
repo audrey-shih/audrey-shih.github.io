@@ -1,5 +1,10 @@
 ---
 title: Piano Performances
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+       
 date: 2015-04-30
 external_link: https://www.youtube.com/watch?v=U-IqLgQ0ui0&list=PLrV76eiXOtDYvUUYc8ABsDJm-4sGZjYbb&index=6
 pager: true

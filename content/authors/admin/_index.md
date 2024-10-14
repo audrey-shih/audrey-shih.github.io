@@ -2,6 +2,10 @@
 # Display name
 title: Audrey Shih
 
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 # Name pronunciation (optional)
 name_pronunciation: ''
 
