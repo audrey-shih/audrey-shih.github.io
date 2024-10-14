@@ -1,5 +1,11 @@
 ---
 title: Clarinet Performances
+
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+
 date: 2024-10-08
 pager: true
 tags:

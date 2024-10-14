@@ -1,5 +1,9 @@
 ---
 title: Multi-Piano Arrangements
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 date: 2020-05-19
 external_link: https://www.youtube.com/watch?v=C3rwGvBZlAI&list=PLrV76eiXOtDZWZGaaicYCJWrseJZ8eq9P&index=2
 pager: true

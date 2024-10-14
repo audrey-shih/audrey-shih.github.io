@@ -1,5 +1,11 @@
 ---
 title: Inversion Sketches
+
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+
 date: 2018-12-31
 pager: true
 tags:

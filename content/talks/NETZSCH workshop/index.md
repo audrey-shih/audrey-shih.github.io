@@ -1,6 +1,11 @@
 ---
 title: NETZSCH Workshop 2024
 
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+       
 event: NETZSCH Workshop 2024
 event_url: https://analyzing-testing.netzsch.com/en/events/2024/seminars/introduction-to-rheology-and-thermal-analysis
 

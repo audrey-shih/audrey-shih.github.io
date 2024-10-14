@@ -1,6 +1,11 @@
 ---
 title: SOR 2022
 
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+       
 event: Society of Rheology Annual Meeting 2022
 event_url: https://www.rheology.org/sor/Annual_Meeting/2022Oct/
 

@@ -1,5 +1,11 @@
 ---
 title: Conducting
+
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+
 date: 2022-12-12
 external_link: ''
 pager: true

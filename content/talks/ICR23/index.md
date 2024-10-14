@@ -1,6 +1,11 @@
 ---
 title: ICR 2023
 
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+
 event: International Congress of Rheology 2023
 event_url: https://www.erasmus.gr/microsites/1221
 

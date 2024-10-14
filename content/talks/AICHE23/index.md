@@ -1,6 +1,11 @@
 ---
 title: AIChE 2023
 
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+
 event: AIChE Annual Meeting 2023
 event_url: https://www.aiche.org/conferences/aiche-annual-meeting/2023
 
