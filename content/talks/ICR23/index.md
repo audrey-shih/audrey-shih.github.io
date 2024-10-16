@@ -17,7 +17,7 @@ address:
   postcode: ''
   country: Greece
 
-summary: 'International Congress of Rheology 2023'
+summary: 'International Congress of Rheology 2023, Athens, Greece'
 abstract: 'Biological fluid characterization using magnetic stress rheometer'
 
 # Talk start and end times.

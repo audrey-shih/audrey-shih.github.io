@@ -1,5 +1,5 @@
 ---
-title: AIChE 2023
+title: AIChE Annual Meeting 2023
 
 output: 
   html_document:
@@ -17,7 +17,7 @@ address:
   postcode: ''
   country: United States
 
-summary: 'AIChE Annual Meeting 2023'
+summary: 'American Institute of Chemical Engineers Annual Meeting 2023, Orlando, FL'
 abstract: 'Biological fluid characterization using magnetic stress rheometer'
 
 # Talk start and end times.

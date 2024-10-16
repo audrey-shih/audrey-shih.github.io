@@ -1,5 +1,5 @@
 ---
-title: AIChE 2024
+title: AIChE Annual Meeting 2024
 
 output: 
   html_document:
@@ -17,7 +17,7 @@ address:
   postcode: ''
   country: United States
 
-summary: 'AIChE Annual Meeting 2024'
+summary: 'American Institute of Chemical Engineers Annual Meeting 2024, San Diego, CA'
 abstract: 'Flow predictions of abscess fluid flow during drainage'
 
 # Talk start and end times.

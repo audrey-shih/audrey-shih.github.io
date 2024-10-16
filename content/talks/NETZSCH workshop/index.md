@@ -17,7 +17,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: 'Rheology workshop'
+summary: 'Introduction to Rheology and Thermal Analysis, Palo Alto, CA'
 abstract: 'Magnetic stress rheometer and biological fluids'
 
 # Talk start and end times.

@@ -17,7 +17,7 @@ address:
   postcode: ''
   country: United States
 
-summary: 'Society of Rheology Annual Meeting 2022'
+summary: 'Society of Rheology Annual Meeting 2022, Chicago, IL'
 abstract: 'Rheology of abscess fluids'
 
 # Talk start and end times.

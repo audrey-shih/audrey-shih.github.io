@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Resume
+        text: Download CV
         url: /uploads/resume.pdf
         attributes: 
           class: "btn-download"
@@ -38,10 +38,12 @@ sections:
       title: '📚 Research'
       subtitle: ''
       text: |-
-        <p class="full-align-indented">I'm currently working on controlling the rheology of bioinks in 3D bioprinting to optimize biomanufactured tissues and organs made up of precisely patterned cells. I've designed a magnetic stress rheometer (MSR) to measure the rheology of biomaterials like bioinks and abscess fluids. My research is supported by the <a href="https://www.nsfgrfp.com/" style="text-decoration: underline;font-weight: bold;">NSF Graduate Research Fellowship</a>!
+        <p class="full-align-indented">Drainage of abscess fluids often fails because physicians don't have a way to predict which catheter size is suitable. I've built a low-cost, portable, sterilizable magnetic stress rheometer that can be deployed to hospitals to solve this issue. With <1 mL of a sample of abscess fluid, I can use my instrument to model the fluid and predict its drainage rate, enabling physicians to personalize treatment plans for each patient.
+        
+        <p class="full-align-indented">I'm also working on controlling the rheology of bioinks in 3D bioprinting to optimize biomanufactured tissues and organs. My research is supported by the <a href="https://www.nsfgrfp.com/" style="text-decoration: underline;font-weight: bold;">NSF Graduate Research Fellowship</a>!
         <br>
 
-        <p class="full-align-indented">During my undergrad, I worked with <a href="https://dattalab.princeton.edu/" style="text-decoration: underline;font-weight: bold;">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. I was featured in the news articles below!
+        <p class="full-align-indented">During my undergrad, I worked with <a href="https://dattalab.princeton.edu/" style="text-decoration: underline;font-weight: bold;">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. My junior work and senior thesis were featured in the news articles below!
       filters:
         folders:
           - research
