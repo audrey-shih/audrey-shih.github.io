@@ -18,7 +18,7 @@ address:
   country: Greece
 
 summary: 'International Congress of Rheology 2023, Athens, Greece'
-abstract: 'Biological fluid characterization using magnetic stress rheometer'
+abstract: 'Magnetic stress rheometer for biological fluid characterization'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

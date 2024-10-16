@@ -18,7 +18,7 @@ address:
   country: United States
 
 summary: 'American Institute of Chemical Engineers Annual Meeting 2024, San Diego, CA'
-abstract: 'Flow predictions of abscess fluid flow during drainage'
+abstract: 'Viscoelastic measurements of abscess fluids using a magnetic stress rheometer'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

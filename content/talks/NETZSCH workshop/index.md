@@ -18,7 +18,7 @@ address:
   country: United States
 
 summary: 'Introduction to Rheology and Thermal Analysis, Palo Alto, CA'
-abstract: 'Magnetic stress rheometer and biological fluids'
+abstract: 'Rheological Characterization of Biological Fluids'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

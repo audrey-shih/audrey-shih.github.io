@@ -18,7 +18,7 @@ address:
   country: United States
 
 summary: 'Society of Rheology Annual Meeting 2022, Chicago, IL'
-abstract: 'Rheology of abscess fluids'
+abstract: 'Magnetic stress rheometer for abscess fluid characterization'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

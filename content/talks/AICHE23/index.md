@@ -18,7 +18,7 @@ address:
   country: United States
 
 summary: 'American Institute of Chemical Engineers Annual Meeting 2023, Orlando, FL'
-abstract: 'Biological fluid characterization using magnetic stress rheometer'
+abstract: 'Magnetic stress rheometer for biological fluid characterization'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
