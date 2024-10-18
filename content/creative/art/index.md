@@ -1,5 +1,5 @@
 ---
-title: Inversion Sketches
+title: Inversion Art
 
 output: 
   html_document:
