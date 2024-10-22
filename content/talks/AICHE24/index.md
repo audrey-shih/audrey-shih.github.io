@@ -18,7 +18,7 @@ address:
   country: United States
 
 summary: 'American Institute of Chemical Engineers Annual Meeting 2024, San Diego, CA'
-abstract: 'Viscoelastic measurements of abscess fluids using a magnetic stress rheometer'
+abstract: 'Magnetic stress rheometer for biological fluid characterization'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
