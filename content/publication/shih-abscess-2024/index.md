@@ -7,7 +7,7 @@ authors:
 - Sanna E. Herwald
 - Alexander M. Vezeridis
 - Gerald G. Fuller
-date: '2024-09-16'
+date: '2024-11-19'
 publication_types:
 - article-journal
 publication: '*Physics of Fluids*'
