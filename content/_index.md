@@ -43,13 +43,13 @@ sections:
         <p class="full-align-indented">I'm also working on controlling the rheology of bioinks in 3D bioprinting to optimize biomanufactured tissues and organs. My research is supported by the <a href="https://www.nsfgrfp.com/" style="text-decoration: underline;font-weight: bold;">NSF Graduate Research Fellowship</a>!
         <br>
 
-        <p class="full-align-indented">During my undergrad, I worked with <a href="https://dattalab.princeton.edu/" style="text-decoration: underline;font-weight: bold;">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. My junior work and senior thesis were featured in the news articles below!
+        <p class="full-align-indented">During my undergrad, I worked with <a href="https://dattalab.princeton.edu/" style="text-decoration: underline;font-weight: bold;">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. See below for news and articles highlighting my junior work and senior thesis!
       filters:
         folders:
           - research
     design:
       view: article-grid
-      columns: 2
+      columns: 4
 #  - block: collection
 #    draft: true
 #    id: papers

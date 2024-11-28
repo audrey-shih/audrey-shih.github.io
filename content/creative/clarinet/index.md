@@ -12,7 +12,7 @@ tags:
   - orchestra
 ---
 
-I play clarinet and piccolo (Eb) clarinet in the Stanford Symphony Orchestra, the Stanford New Ensemble, and various chamber groups. In 2023, I performed Arnold Schoenberg's *Pierrot Lunaire* on clarinet and bass clarinet. I was a 2-time concerto soloist with the Princeton University Sinfonia under Dr. Ruth Ochs, performing Claude Debussy's *Premiere Rhapsodie* in 2017 and Franz Krommer's *Double Clarinet Concerto, Op. 91* in 2018 with Chesley Chan. During my time at Princeton, I was a member of the Princeton University Orchestra, Sinfonia, Chamber Music Society, Pops Orchestra, and Trenton Youth Orchestra. I have studied with [Jo-Ann Sternberg](https://www.juilliard.edu/music/faculty/sternberg-jo-ann) and [David Thomas](https://columbussymphony.com/musician/david-thomas/).
+I play clarinet and piccolo (Eb) clarinet in the Stanford Symphony Orchestra, the Stanford New Ensemble, and various chamber groups. In 2023, I performed Arnold Schoenberg's *Pierrot Lunaire* on clarinet and bass clarinet. I was a 2-time concerto soloist with the Princeton University Sinfonia under Dr. Ruth Ochs, performing Claude Debussy's *Premiere Rhapsodie* in 2017 and Franz Krommer's *Double Clarinet Concerto, Op. 91* in 2018 with Chesley Chan. During my time at Princeton, I was a member of the Princeton University Orchestra, Sinfonia, Chamber Music Society, Pops Orchestra, and Trenton Youth Orchestra. I studied under [Jo-Ann Sternberg](https://www.juilliard.edu/music/faculty/sternberg-jo-ann) and [David Thomas](https://columbussymphony.com/musician/david-thomas/).
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 

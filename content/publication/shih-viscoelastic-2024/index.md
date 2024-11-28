@@ -7,7 +7,7 @@ authors:
 - Sanna E. Herwald
 - Alexander M. Vezeridis
 - Gerald G. Fuller
-date: '2024-11-01'
+date: '2024-11-19'
 publishDate: '2024-11-20T00:24:25.663961Z'
 publication_types:
 - article-journal
@@ -18,3 +18,4 @@ links:
 - name: URL
   url: https://doi.org/10.1063/5.0238703
 ---
+This publication was featured as the cover article of *Physics of Fluids* Volume 36, Issue 11 (November 2024 issue).
