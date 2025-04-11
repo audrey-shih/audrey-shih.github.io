@@ -215,6 +215,6 @@ I’m a 5th year PhD candidate in the Chemical Engineering Department at Stanfor
 
 My current work focuses on designing simple instruments to tackle complex problems in soft matter and leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments. My general interests are in materials characterization of polymers and biomaterials.
 
-**I'm looking for a research position in industry** starting in summer 2025. Please reach out if I might be a good fit!
+After I graduate in June 2025, I will be starting a new role as a Process Engineer at [Align Technology](https://www.aligntech.com/)!
 
 </div>

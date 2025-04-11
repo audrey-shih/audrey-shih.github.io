@@ -24,6 +24,6 @@ I play clarinet and piccolo (Eb) clarinet in the Stanford Symphony Orchestra, th
 
 In June 2024, I played Eb clarinet on tour with the Stanford Symphony Orchestra through France and Monaco. Here is a clip from one of our performances of Richard Strauss' *Till Eulenspiegel's Merry Pranks*, in which the Eb clarinet depicts the main character's death by hanging at the end of the piece.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/sgjl2NoV_nk?si=TGjjMgdnrS3Pl642&amp;start=808" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/sgjl2NoV_nk?si=BBE5ZDL87DNA65pN&amp;start=741" frameborder="0" allowfullscreen></iframe>
 
 I also teach clarinet lessons to beginner and intermediate students of all ages. Feel free to reach out if interested!

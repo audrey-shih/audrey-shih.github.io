@@ -1,0 +1,9 @@
+---
+title: 'Viscoelastic measurements of abscess fluids using a magnetic stress rheometer'
+summary: 'Abscesses, pockets of fluid caused by infections in the human body, are typically treated in hospitals by draining the fluid through a catheter. However, the viscous and heterogeneous nature of the fluid often leads to prolonged treatment duration or even drainage failure. Furthermore, current practice relies only on qualitative observations of viscosity for catheter size selection, with little quantitative data to guide this parameter. In this work, we introduce a compact magnetic stress rheometer platform to examine the rheological response of nine different abscess fluids under shear stress. A magnetic field applies a force to a probe that induces it to shear the underlying abscess fluid. Its spatiotemporal displacement is measured, resulting in the determination of creep compliance. The results are well-fitted to a 5-element viscoelastic model, providing a quantitative and robust prediction of abscess fluid rheology for a variety of etiologies. We show that while viscoelastic parameters between abscess fluids of different etiologies can span five orders of magnitude, zero-shear viscosity should be sufficient in future predictions of drainage flow rates. The custom-built instrument we have developed is portable, inexpensive, and sterile-compatible, serving as an ideal platform for point-of-care analyses in clinical settings to facilitate catheter selection and enable healthcare workers to devise optimal treatment strategies for each patient. Moreover, the versatility of our platform extends its potential application to rheological measurements in diverse medical contexts.'
+date: 2024-11-19
+external_link: https://pubs.aip.org/aip/pof/article/36/11/111919/3321327/Viscoelastic-measurements-of-abscess-fluids-using
+pager: true
+---
+
+<!--more-->
