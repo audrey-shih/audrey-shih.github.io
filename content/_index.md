@@ -38,7 +38,8 @@ sections:
       title: '📚 Research'
       subtitle: ''
       text: |-
-        <p class="full-align-indented">Drainage of abscess fluids often fails because physicians don't have a way to predict which catheter size is suitable. I've built a low-cost, portable, sterilizable magnetic stress rheometer that can be deployed to hospitals to solve this issue. With <1 mL of a sample of abscess fluid, I can use my instrument to model the fluid and predict its drainage rate, enabling physicians to personalize treatment plans for each patient.
+        <p class="full-align-indented">Drainage of abscess fluids often fails because physicians don't have a way to predict which catheter size is suitable. I've built a low-cost, portable, sterilizable magnetic stress rheometer that can be deployed to hospitals to solve this issue. With <1 mL of a sample of abscess fluid, I can use my instrument to model the fluid and predict its drainage rate, enabling physicians to personalize treatment plans for each patient, using this simple <a href="https://audrey-shih.github.io/Abscess-Fluid-Calculator/" style="text-decoration: underline;font-weight: bold;">flow rate calculator</a>.
+        <br>
         
         <p class="full-align-indented">I'm also using rheological measurements to study the gelation of hydrogel bioinks in 3D bioprinting. My research is supported by the <a href="https://www.nsfgrfp.com/" style="text-decoration: underline;font-weight: bold;">NSF Graduate Research Fellowship</a>.
         <br>

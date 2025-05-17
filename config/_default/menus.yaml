@@ -28,6 +28,9 @@ main:
 #  - name: Resume
 #    url: uploads/resume.pdf
 #    weight: 50
+  - name: Flow Rate Calculator
+    url: https://audrey-shih.github.io/Abscess-Fluid-Calculator/
+    weight: 40
   - name: Creative
     url: /#creative
     weight: 50
