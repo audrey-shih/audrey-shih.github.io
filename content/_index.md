@@ -41,7 +41,7 @@ sections:
         <p class="full-align-indented">Drainage of abscess fluids often fails because physicians don't have a way to predict which catheter size is suitable. I've built a low-cost, portable, sterilizable magnetic stress rheometer that can be deployed to hospitals to solve this issue. With <1 mL of a sample of abscess fluid, I can use my instrument to model the fluid and predict its drainage rate, enabling physicians to personalize treatment plans for each patient, using this simple <a href="https://audrey-shih.github.io/Abscess-Fluid-Calculator/" style="text-decoration: underline;font-weight: bold;">flow rate calculator</a>.
         <br>
         
-        <p class="full-align-indented">I'm also using rheological measurements to study the gelation of hydrogel bioinks in 3D bioprinting. My research is supported by the <a href="https://www.nsfgrfp.com/" style="text-decoration: underline;font-weight: bold;">NSF Graduate Research Fellowship</a>.
+        <p class="full-align-indented">My low-cost rheometer is also a useful tool for tracking crosslinking rates in embedded 3D bioprinting, where diffusion of a small molecule into or out of a biomaterial ink drives gelation. Check out my papers for more info! My graduate research was supported by the <a href="https://www.nsfgrfp.com/" style="text-decoration: underline;font-weight: bold;">NSF Graduate Research Fellowship</a>.
         <br>
 
         <p class="full-align-indented">During my undergrad, I worked with <a href="https://dattalab.princeton.edu/" style="text-decoration: underline;font-weight: bold;">Professor Sujit Datta</a> at Princeton University to understand the flow of polymer solutions in porous media, useful in cleaning up groundwater in aquifers. See below for news about my work!

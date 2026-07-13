@@ -52,6 +52,12 @@ interests:
   - Biomaterials
   
 education:
+  - area: PhD Chemical Engineering
+    institution: Stanford University
+    date_start: 2020-09-01
+    date_end: 2025-06-01
+    summary: |
+
   - area: MS Chemical Engineering
     institution: Stanford University
     date_start: 2020-09-01
@@ -211,10 +217,8 @@ awards:
 
 ## Hey, I'm Audrey 👋
 
-I’m a 5th year PhD candidate in the Chemical Engineering Department at Stanford University, working with [Professor Gerry Fuller](https://fullergroup.stanford.edu/).
+I’m a Process Engineer at [Align Technology](https://www.aligntech.com/). I received my PhD in Chemical Engineering from Stanford University, where I worked with [Professor Gerry Fuller](https://fullergroup.stanford.edu/).
 
-My current work focuses on designing simple instruments to tackle complex problems in soft matter and leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments. My general interests are in materials characterization of polymers and biomaterials.
-
-After I graduate in June 2025, I will be starting a new role as a Process Engineer at [Align Technology](https://www.aligntech.com/)!
+My PhD research focused on designing simple instruments to tackle complex problems in soft matter and leveraging physical properties of human-derived and synthetic biomaterials to diagnose diseases and innovate treatments. My general interests are in materials characterization of polymers and biomaterials.
 
 </div>
